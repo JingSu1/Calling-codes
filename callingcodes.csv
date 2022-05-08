@@ -1,6 +1,6 @@
 Region,Code
 Afghanistan,93
-?land,358 18
+Aland,358 18
 Albania,355
 Algeria,213
 American Samoa,1 684
@@ -58,7 +58,7 @@ Congo,242
 "Congo, Democratic Republic of the",243
 Cook Islands,682
 Costa Rica,506
-Ivory Coast(C?te d'Ivoire),225
+Ivory Coast(Cote d'Ivoire),225
 Croatia,385
 Cuba,53
 Cura?ao,599 9
@@ -116,7 +116,7 @@ India,91
 Indonesia,62
 Inmarsat SNAC,870
 International Freephone Service(UIFN),800
-International Networks,"882,?883"
+International Networks,"882, +883"
 International Premium Rate Service,979
 International Shared Cost Service(ISCS),808
 Iran,98
@@ -203,12 +203,12 @@ Poland,48
 Portugal,351
 Puerto Rico,"1 787, +1 939"
 Qatar,974
-R¨¦union,262
+Reunion,262
 Romania,40
 Russia,7
 Rwanda,250
 Saba,599 4
-Saint Barth¨¦lemy,590
+Saint Barthelemy,590
 Saint Helena,290
 Saint Kitts and Nevis,1 869
 Saint Lucia,1 758
@@ -217,7 +217,7 @@ Saint Pierre and Miquelon,508
 Saint Vincent and the Grenadines,1 784
 Samoa,685
 SanMarino,378
-S?o Tom¨¦ and Pr¨ªncipe,239
+Sao Tome and Principe,239
 Saudi Arabia,966
 Senegal,221
 Serbia,381
